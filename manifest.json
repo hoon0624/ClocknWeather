@@ -1,0 +1,14 @@
+{
+    "name": "ClocknWeather",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "permissions": ["activeTab", "storage"],
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "background": ["background.js"],
+    "icons": {
+        "128": "icon.png"
+    },
+    "manifest_version": 2
+}
