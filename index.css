@@ -38,10 +38,6 @@ h1{
     font-size:120px;
 }
 
-.btn {
-    cursor: pointer;
-}
-
 .greetings{
     display: none;
     font-size: 65px;
@@ -51,6 +47,9 @@ h1{
 
 .form{
     display: none;
+    width: 400px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .showing {
