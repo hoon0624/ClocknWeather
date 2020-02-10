@@ -104,3 +104,11 @@ button, input[type="submit"], input[type="reset"] {
     margin-bottom: 100px;
     margin-left: 150px;
 } 
+.googledocsLink{
+    margin-bottom: 100px;
+    margin-left: 230px;
+}
+.googledriveLink{
+    margin-bottom: 100px;
+    margin-left: 310px;
+}
